@@ -1,1 +1,1 @@
-# MIT6.824_Distributed-Systems
+# MIT6.824_Distributed_Systems
